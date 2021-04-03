@@ -8,6 +8,6 @@ Chatbot WhatsApp: https://api.whatsapp.com/send?phone=+556892022088&text=Ol%C3%A
 
 ## ✒️ Autor
 
-* *Marcos Delano* - *Desenvolvedor* - [Marcos Delano](https://github.com/marcosdgomes)
+* [Marcos Delano](https://github.com/marcosdgomes)* - *Desenvolvedor* - 
 ---
 ⌨️ com ❤️ por [Marcos Delano](https://gist.github.com/marcosdgomes) 😊
