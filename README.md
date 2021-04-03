@@ -10,4 +10,4 @@ Chatbot WhatsApp: https://api.whatsapp.com/send?phone=+556892022088&text=Ol%C3%A
 
 * [Marcos Delano](https://marcosdelano.com) - *Desenvolvedor* - 
 ---
-Developerd with ❤️ by [Marcos Delano](https://marcosdelano.com) 😊
+Developed with ❤️ by [Marcos Delano](https://marcosdelano.com) 😊
